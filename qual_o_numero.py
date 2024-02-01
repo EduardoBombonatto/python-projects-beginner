@@ -1,3 +1,4 @@
+#voce tem q advinhar um numero de 4 digitos, aleatorio do computador
 import random
 
 def qualNumero():
@@ -28,6 +29,5 @@ def saoNumerosDiferentes(lista1, lista2):
     return False
 
 
-    
 if __name__ == '__main__':
     qualNumero()
